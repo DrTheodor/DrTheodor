@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Dr. Theo
 <img src="https://i.imgur.com/dx1qzZ9.png" alt="Profile Icon" width="200"/>
 
-My statistics:
+**My statistics**:
 <p><img src="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&theme=tokyonight" alt="Stats"/></p>
 
 
