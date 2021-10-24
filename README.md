@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Dr. Theo
+![Profile Icon](https://i.imgur.com/dx1qzZ9.png)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=DrTheodor&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
 **DrTheodor/DrTheodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
