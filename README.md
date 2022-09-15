@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Constellation Code](https://github.com/DrTheodor/Constellation-Code).
 - 📫 How to reach me: You can contact me in Discord, my nickname is **Dr. Theo#6271**.
-- 🌱 I’m currently learning Java, C, C++, C#.
+- 🌱 I’m currently learning Java, C, C++, C#, Python and Rust.
 <!--
 **DrTheodor/DrTheodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
