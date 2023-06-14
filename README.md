@@ -1,17 +1,42 @@
-### Hi there 👋, I'm Dr Theo
-<img src="https://i.imgur.com/dx1qzZ9.png" alt="Profile Icon" width="200"/>
+<p align="center">
+  <img src="https://i.imgur.com/dx1qzZ9.png" alt="Profile Icon" width="200" align="center" />
+</p>
 
-I ***love*** to code.
+<h1 align="center">
+  <picture>
+    <source srcset="http://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2000&color=FFFFFF&repeat=false&width=600&center=true&lines=%27ello+there+%F0%9F%91%8B%2C+I%27m+Dr+Theo!" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+    <source srcset="http://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2000&color=000000&repeat=false&width=600&center=true&lines=%27ello+there+%F0%9F%91%8B%2C+I%27m+Dr+Theo!" media="(prefers-color-scheme: light)"/>
+    <img alt="'ello there 👋, I'm Dr Theo!" />
+  </picture>
+</h1>
 
+<h3>I <b><i>ʟᴏᴠᴇ</i></b> to code.</h3>
 
+<picture>
+  <source srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&sze=16&duration=1000&color=FFFFFF&multiline=true&repeat=false&width=450&height=110&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+ShardMC.;-+%F0%9F%93%AB+How+to+reach+me%3A+Dr.+Theo%236271.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust.;-+%F0%9F%98%84+Pronouns%3A+he%2Fhim." media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+  <source srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&color=000000&multiline=true&repeat=false&width=450&height=110&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+ShardMC.;-+%F0%9F%93%AB+How+to+reach+me%3A+Dr.+Theo%236271.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust.;-+%F0%9F%98%84+Pronouns%3A+he%2Fhim." media="(prefers-color-scheme: light)"/>
+  <img alt="'ello there 👋, I'm Dr Theo!" />
+</picture>
 
-- 🔭 I’m currently working on ~~[Constellation Code](https://github.com/DrTheodor/Constellation-Code)~~ [ShardMC](https://github.com/shardmc).
-- 📫 How to reach me: You can contact me in Discord, my nickname is **Dr. Theo#6271**.
-- 🌱 I’m currently learning Rust.
-- 😄 Pronouns: He/Him
+<br/>
+<br/>
 
-<br/>**Here are my statistics**:
-<p><img src="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&theme=tokyonight" alt="Stats"/></p>
+<h2>Here are my statistics:</h2>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="User stats" />
+</picture>
+
+<br/>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrTheodor&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="Most used languages" />
+</picture>
+
 <!--
 **DrTheodor/DrTheodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
