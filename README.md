@@ -13,7 +13,7 @@
 <h3>I <b><i>ʟᴏᴠᴇ</i></b> to code.</h3>
 
 <picture>
-  <source srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&sze=16&duration=1000&color=FFFFFF&multiline=true&repeat=false&width=450&height=110&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+ShardMC.;-+%F0%9F%93%AB+How+to+reach+me%3A+Dr.+Theo%236271.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust.;-+%F0%9F%98%84+Pronouns%3A+he%2Fhim." media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+  <source srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&sze=16&duration=1000&color=FFFFFF&multiline=true&repeat=false&width=450&height=110&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+ShardMC.;-+%F0%9F%93%AB+How+to+reach+me%3A+dr.theo%20%28Discord%29.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust.;-+%F0%9F%98%84+Pronouns%3A+he%2Fhim." media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
   <source srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&color=000000&multiline=true&repeat=false&width=450&height=110&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+ShardMC.;-+%F0%9F%93%AB+How+to+reach+me%3A+dr.theo%20%28Discord%29.;-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust.;-+%F0%9F%98%84+Pronouns%3A+he%2Fhim." media="(prefers-color-scheme: light)"/>
   <img alt="'ello there 👋, I'm Dr Theo!" />
 </picture>
