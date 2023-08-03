@@ -19,9 +19,19 @@
 </picture>
 
 <br/>
+
+<a href="CvSkNeQ9uj">
+  <picture>
+    <source srcset="https://discord.c99.nl/widget/theme-4/691552610519613440.png" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://discord.c99.nl/widget/theme-5/691552610519613440.png" media="(prefers-color-scheme: light)" />
+    <img alt="My discord" />
+  </picture>
+</a>
+
+<br/>
 <br/>
 
-<h2>Here are my statistics:</h2>
+<h2>Here are my stats:</h2>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=DrTheodor&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
