@@ -20,7 +20,7 @@
 
 <br/>
 
-<a href="CvSkNeQ9uj">
+<a href="https://discord.gg/CvSkNeQ9uj">
   <picture>
     <source srcset="https://discord.c99.nl/widget/theme-4/691552610519613440.png" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
     <source srcset="https://discord.c99.nl/widget/theme-5/691552610519613440.png" media="(prefers-color-scheme: light)" />
